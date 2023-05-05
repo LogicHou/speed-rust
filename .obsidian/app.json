@@ -1,4 +1,8 @@
 {
   "livePreview": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "readableLineLength": false,
+  "strictLineBreaks": true
 }
