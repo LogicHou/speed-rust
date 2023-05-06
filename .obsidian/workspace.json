@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3effbbfc5ea700",
+        "id": "e9aeac53108f2c60",
         "type": "tabs",
         "children": [
           {
-            "id": "5cee04fd1f3934c3",
+            "id": "0c5d8b1144c8a472",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,11 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cee04fd1f3934c3",
+  "active": "0c5d8b1144c8a472",
   "lastOpenFiles": [
     "3.3 语句和表达式.md",
-    "3.4 函数.md",
     "3. 基本类型.md",
+    "3.4 函数.md",
     "README.md.md",
     "0. 资料.md",
     "3.1 数值类型.md",
