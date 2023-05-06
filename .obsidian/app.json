@@ -4,5 +4,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "readableLineLength": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "promptDelete": false
 }
