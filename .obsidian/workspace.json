@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "3.4 函数.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "3.4 函数.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "3.4 函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "3.4 函数.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   "active": "5cee04fd1f3934c3",
   "lastOpenFiles": [
     "3.3 语句和表达式.md",
-    "0. 资料.md",
-    "README.md.md",
-    "3.1 数值类型.md",
+    "3.4 函数.md",
     "3. 基本类型.md",
+    "README.md.md",
+    "0. 资料.md",
+    "3.1 数值类型.md",
     "2. 变量绑定.md",
     "1. 速览.md",
     "3.2 字符、布尔、单元类型.md"
